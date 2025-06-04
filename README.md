@@ -1,7 +1,5 @@
 # Coffee Shop Sales Analysis Dashboard
-### ![Dashboard Overview]
-
-(https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard%20Preview.png)
+![Dashboard Overview](https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ## Problem Statement
 This project aims to analyze and visualize the sales data of a coffee shop to derive actionable insights. By leveraging Power BI, the dashboard provides a comprehensive view of sales trends, product performance, and customer behavior, enabling stakeholders to make informed business decisions.

@@ -1,4 +1,7 @@
 # Coffee Shop Sales Analysis Dashboard
+
+#### Dashboard Overview
+
 ![Dashboard Overview](https://github.com/SakshiLokulwar/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ## Problem Statement
